@@ -28,7 +28,6 @@ $("#update_user").submit(function(event){
 
 })
 
-
 if(Window.location.pathname == "/"){
     console.log('delete method...')
     $ondelete = $(".table tbody td a.delete");
