@@ -50,9 +50,6 @@ if(Window.location.pathname == "/"){
 
     })
 
-function deletefunc() {
-    console.log("Pencil icon clicked");
-}
 
 
    
